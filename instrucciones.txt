@@ -1,0 +1,7 @@
+colocar en la carpeta
+c:\aa\
+
+
+IMPORTANTE: en aquellos archivos donde tiene que concatenar la dirección, primero colocar en el excel en la columna de numeración de la dirección, un apóstrofo (')
+
+En todos los archivos excel previamente hay que quitar los espacios que hay arriba y con Ctrol+L reemplazar el (.) con nada para que se borren
